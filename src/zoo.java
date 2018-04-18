@@ -13,13 +13,12 @@ public class zoo {
             System.out.println(name + " eats " + food);
         }
     }
-
-    public static void main(String[] args){
-        zoo z = new zoo();
-        z.eat("Tigger", "meat");
-        z.sleep("Tiger");
-        z.eat("Tigger", "bacon");
-    }
+//    public static void main(String[] args){
+//        zoo z = new zoo();
+//        z.eat("Tigger", "meat");
+//        z.sleep("Tiger");
+//        z.eat("Tigger", "bacon");
+//    }
 
 }
 
